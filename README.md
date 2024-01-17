@@ -30,5 +30,5 @@
 Concluido ✔️
 
 <h1 align="center">
-        <img src="https://i.imgur.com/2crMe92.png"/>
+        <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
 </h1>
